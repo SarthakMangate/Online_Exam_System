@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.dat
+*.shard*
+uploads/
+models/

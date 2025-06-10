@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Face API Model Loader</title>
+  <!-- Load face-api.js from CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/face-api.js"></script>
+</head>
+<body>
+  <h1>Face API Model Loader Test</h1>
+  <p>Check the console for the model load status.</p>
+  
+  <script>
+    async function loadModels() {
+      try {
+        // Change the path if your models folder is not at the root
+        const modelPath = './models'; // Try './models' instead of '/models'
+        console.log('Attempting to load models from:', modelPath);
+        await faceapi.nets.tinyFaceDetector.loadFromUri(modelPath);
+        console.log('Tiny Face Detector model loaded successfully.');
+      } catch (error) {
+        console.error('Error loading models:', error);
+      }
+    }
+    
+    loadModels();
+  </script>
+</body>
+</html>
