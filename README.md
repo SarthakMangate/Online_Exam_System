@@ -80,6 +80,7 @@ git push origin feature/your-feature
 - Open a Pull Request on GitHub
 
 📧 Contact
+
 Email: sarthakmangate17@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/sarthak-mangate-99b104271/
