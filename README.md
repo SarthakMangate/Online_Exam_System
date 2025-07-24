@@ -51,8 +51,11 @@ pip install numpy
 Edit /db/db.php:
 
 $servername = "localhost";
+
 $username = "root";
+
 $password = "";
+
 $dbname = "proctorai";
 
 🖥️ Run locally
