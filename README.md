@@ -34,7 +34,7 @@ Built with PHP, MySQL, Bootstrap, and Python for real-time proctoring.
 ✅ Clone the repository
 Bash
 
-git clone https://github.com/YourUsername/Online_Exam_System.git
+git clone https://github.com/SarthakMangate/Online_Exam_System.git
 cd Online_Exam_System
 
 ✅ Install Python dependencies
@@ -47,7 +47,9 @@ pip install numpy
 - Import proctorai.sql from the project folder
 
 ✅ Configure database connection
+
 Edit /db/db.php:
+
 $servername = "localhost";
 $username = "root";
 $password = "";
@@ -79,4 +81,5 @@ git push origin feature/your-feature
 
 📧 Contact
 Email: sarthakmangate17@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/sarthak-mangate-99b104271/
