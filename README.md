@@ -14,6 +14,5 @@ ProctorAI is an AI-powered online exam platform that ensures secure and fair exa
 - Deploy: Web features will work; real-time AI features need backend Python service
 
 ## Author
-Developed by [Your Name]
+Developed by Sarthak Mangate
 
-" > README.md
