@@ -64,9 +64,7 @@ http://localhost/Online_Exam_System
 
 ✏️ Usage notes
 - Students & teachers can register and login
-- Admin cannot register; use pre-created admin credentials:
-  Email: admin@gmail.com
-  Password: Admin@123
+- Admin cannot register; use pre-created admin credentials
 - Admin dashboard shows malpractice logs; admin can reset / approve student for retest
 
 🤝 Contributing
