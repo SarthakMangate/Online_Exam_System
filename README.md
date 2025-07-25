@@ -1,13 +1,13 @@
-# 🎓 ProctorAI - AI-powered Online Exam Proctoring System
+#  ProctorAI - AI-powered Online Exam Proctoring System
 
 **ProctorAI** is a secure online examination platform that uses AI to detect cheating (tab switching, multiple faces, inactivity).  
 Built with PHP, MySQL, Bootstrap, and Python for real-time proctoring.
 
-> 🌐 **Live demo**: [exam-secure-platform.infinityfreeapp.com](https://exam-secure-platform.infinityfreeapp.com)
+>  **Live demo**: [exam-secure-platform.infinityfreeapp.com](https://exam-secure-platform.infinityfreeapp.com)
 
 ---
 
-## 🚀 Features
+##  Features
 ✅ AI-based webcam monitoring  
 ✅ Detects multiple faces, tab switching & inactivity  
 ✅ Role-based dashboards: Student, Teacher, Admin  
@@ -16,7 +16,7 @@ Built with PHP, MySQL, Bootstrap, and Python for real-time proctoring.
 ✅ Clean, responsive UI (Bootstrap)  
 ✅ Passwords stored securely (hashed)
 
-> ⚠️ If you were caught but it’s unfair, don’t worry!  
+>  If you were caught but it’s unfair, don’t worry!  
 > Admin can check your malpractice logs and allow you to appear for the test again if it was a system fault.
 
 ---
@@ -29,7 +29,7 @@ Built with PHP, MySQL, Bootstrap, and Python for real-time proctoring.
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ✅ Clone the repository
 Bash
@@ -58,21 +58,21 @@ $password = "";
 
 $dbname = "proctorai";
 
-🖥️ Run locally
+ Run locally
 - Place the project folder inside your XAMPP htdocs directory
 - Start Apache and MySQL from XAMPP control panel
 (Optional, for AI proctoring):
 python app.py
 
-🌐 Open in browser
+ Open in browser
 http://localhost/Online_Exam_System
 
-✏️ Usage notes
+ Usage notes
 - Students & teachers can register and login
 - Admin cannot register; use pre-created admin credentials
 - Admin dashboard shows malpractice logs; admin can reset / approve student for retest
 
-🤝 Contributing
+ Contributing
 - Fork this repo
 - Create a new branch:
 git checkout -b feature/your-feature
