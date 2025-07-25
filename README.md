@@ -21,7 +21,7 @@ Built with PHP, MySQL, Bootstrap, and Python for real-time proctoring.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Frontend: **HTML5, CSS3, Bootstrap 5, JavaScript**
 - Backend: **PHP**
 - Database: **MySQL**
@@ -82,7 +82,7 @@ git commit -m "Add new feature"
 git push origin feature/your-feature
 - Open a Pull Request on GitHub
 
-📧 Contact
+ Contact
 
 Email: sarthakmangate17@gmail.com
 
